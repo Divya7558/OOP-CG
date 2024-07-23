@@ -1,7 +1,9 @@
 Bubble Sort Visualization Using Computer Graphics
 
 This project is an interactive tool that visualizes the Bubble Sort algorithm using computer graphics. Designed to be educational and engaging, it helps users understand the sorting process through clear and intuitive visual representation.
+
 Features
+
 Graphical Representation:
 
 Visualizes data as bars or points.
